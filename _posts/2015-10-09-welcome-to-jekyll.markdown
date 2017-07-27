@@ -10,7 +10,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 {% highlight ruby %}
 def print_hi(name)
-  puts "Hi, #{name}"
+  puts "Hixvxvzxcvx xvzxcv zxv, #{name}"
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
